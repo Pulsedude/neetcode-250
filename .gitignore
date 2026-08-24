@@ -1,0 +1,11 @@
+# Snippets test files & folders
+test/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+
+# Environment
+.venv
