@@ -9,7 +9,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 
 ## 📊 Progress Tracker
 
-- [ ] **Arrays & Hashing** (12 / 22)
+- [ ] **Arrays & Hashing** (14 / 22)
 - [ ] **Two Pointers** (0 / 13)
 - [ ] **Sliding Window** (0 / 9)
 - [ ] **Stack** (0 / 14)
@@ -48,6 +48,9 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 | 9 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group_anagrams.py](./array_and_hashing/group_anagrams.py) | $O(m \cdot n)$ | $O(m \cdot n)$ |
 | 10 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [top_k_frequent_elements.py](./array_and_hashing/top_k_frequent_elements.py) | $O(n)$ | $O(n)$ |
 | 11 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [sort_colors.py](./array_and_hashing/sort_colors.py) | $O(n)$ | $O(1)$ |
+| 12 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [encode_and_decode_strings.py](./array_and_hashing/encode_and_decode_strings.py) | $O(n \cdot m)$ | $O(n + m)$ |
+| 13 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product_of_array_except_itself.py](./array_and_hashing/product_of_array_except_itself.py) | $O(n)$ | $O(1)$ |
+| 14 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [range_sum_query_2d_immutable.py](./array_and_hashing/range_sum_query_2d_immutable.py) | $O(1)$ | $O(1)$ |
 
 
 
