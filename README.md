@@ -9,7 +9,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 
 ## 📊 Progress Tracker
 
-- [ ] **Arrays & Hashing** (14 / 22)
+- [ ] **Arrays & Hashing** (15 / 22)
 - [ ] **Two Pointers** (0 / 13)
 - [ ] **Sliding Window** (0 / 9)
 - [ ] **Stack** (0 / 14)
@@ -51,6 +51,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 | 12 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [encode_and_decode_strings.py](./array_and_hashing/encode_and_decode_strings.py) | $O(n \cdot m)$ | $O(n + m)$ |
 | 13 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product_of_array_except_itself.py](./array_and_hashing/product_of_array_except_itself.py) | $O(n)$ | $O(1)$ |
 | 14 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [range_sum_query_2d_immutable.py](./array_and_hashing/range_sum_query_2d_immutable.py) | $O(1)$ | $O(1)$ |
+| 15 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [valid_sudoku.py](./array_and_hashing/valid_sudoku.py) | $O(n^2)$ | $O(1)$ |
 
 
 
