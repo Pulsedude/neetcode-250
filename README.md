@@ -9,7 +9,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 
 ## 📊 Progress Tracker
 
-- [ ] **Arrays & Hashing** (15 / 22)
+- [ ] **Arrays & Hashing** (17 / 22)
 - [ ] **Two Pointers** (0 / 13)
 - [ ] **Sliding Window** (0 / 9)
 - [ ] **Stack** (0 / 14)
@@ -52,6 +52,8 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 | 13 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product_of_array_except_itself.py](./array_and_hashing/product_of_array_except_itself.py) | $O(n)$ | $O(1)$ |
 | 14 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [range_sum_query_2d_immutable.py](./array_and_hashing/range_sum_query_2d_immutable.py) | $O(1)$ | $O(1)$ |
 | 15 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [valid_sudoku.py](./array_and_hashing/valid_sudoku.py) | $O(n^2)$ | $O(1)$ |
+| 16 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [sort_an_array.py](./array_and_hashing/sort_an_array.py) | $O(n + k)$ | $O(k)$ |
+| 17 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [longest_consecutive_sequence.py](./array_and_hashing/longest_consecutive_sequence.py) | $O(n)$ | $O(n)$ |
 
 
 
