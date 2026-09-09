@@ -10,7 +10,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 ## 📊 Progress Tracker
 
 - [ ] **Arrays & Hashing** (17 / 22)
-- [ ] **Two Pointers** (0 / 13)
+- [ ] **Two Pointers** (2 / 13)
 - [ ] **Sliding Window** (0 / 9)
 - [ ] **Stack** (0 / 14)
 - [ ] **Binary Search** (0 / 14)
@@ -54,6 +54,13 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 | 15 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [valid_sudoku.py](./array_and_hashing/valid_sudoku.py) | $O(n^2)$ | $O(1)$ |
 | 16 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [sort_an_array.py](./array_and_hashing/sort_an_array.py) | $O(n + k)$ | $O(k)$ |
 | 17 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [longest_consecutive_sequence.py](./array_and_hashing/longest_consecutive_sequence.py) | $O(n)$ | $O(n)$ |
+
+### 2. Two Pointers
+
+| # | Problem | Difficulty | Solution | Time Complexity | Space Complexity |
+|---|---|---|---|---|---|
+| 1 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [reverse_string.py](./two_pointers/reverse_string.py) | $O(n)$ | $O(1)$ |
+| 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [valid_palindrome.py](./two_pointers/valid_palindrome.py) | $O(n)$ | $O(1)$ |
 
 
 
