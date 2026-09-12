@@ -10,7 +10,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 ## 📊 Progress Tracker
 
 - [ ] **Arrays & Hashing** (19 / 22)
-- [ ] **Two Pointers** (2 / 13)
+- [ ] **Two Pointers** (3 / 13)
 - [ ] **Sliding Window** (0 / 9)
 - [ ] **Stack** (1 / 14)
 - [ ] **Binary Search** (0 / 14)
@@ -63,6 +63,7 @@ This repository contains my solutions and notes for the **[NeetCode 250](https:/
 |---|---|---|---|---|---|
 | 1 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [reverse_string.py](./two_pointers/reverse_string.py) | $O(n)$ | $O(1)$ |
 | 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [valid_palindrome.py](./two_pointers/valid_palindrome.py) | $O(n)$ | $O(1)$ |
+| 3 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [merge_strings_alternatley.py](./two_pointers/merge_strings_alternatley.py) | $O(n + m)$ | $O(n + m)$ |
 
 ### 4. Stack
 
